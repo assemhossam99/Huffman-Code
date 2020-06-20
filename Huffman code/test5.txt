@@ -1,0 +1,1 @@
+Data compression is either lossy or lossless

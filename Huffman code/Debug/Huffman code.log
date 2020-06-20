@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\fcis\file origanization\huffman code\huffman code\source.cpp(85): warning C4018: '<': signed/unsigned mismatch
+e:\fcis\file origanization\huffman code\huffman code\source.cpp(117): warning C4018: '<': signed/unsigned mismatch
+e:\fcis\file origanization\huffman code\huffman code\source.cpp(125): warning C4018: '<': signed/unsigned mismatch
+e:\fcis\file origanization\huffman code\huffman code\source.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  Huffman code.vcxproj -> E:\FCIS\File Origanization\Huffman code\Debug\Huffman code.exe
